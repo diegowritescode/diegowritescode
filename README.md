@@ -118,7 +118,7 @@ A long route is not about speed. It is about a pace you can hold and knowing the
 ---
 
 <p align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=diegowritescode&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&hide_title=true">
+  <b>3 years</b> shipping &nbsp;·&nbsp; <b>5 systems</b> in production &nbsp;·&nbsp; <b>120+</b> decision records &nbsp;·&nbsp; <b>1</b> hackathon won
 </p>
 
 <p align="center">
