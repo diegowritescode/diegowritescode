@@ -118,7 +118,7 @@ A long route is not about speed. It is about a pace you can hold and knowing the
 ---
 
 <p align="center">
-  <img alt="Contribution streak" src="https://github-readme-streak-stats.herokuapp.com/?user=diegowritescode&hide_border=true&background=00000000&ring=0095F6&fire=0095F6&currStreakLabel=0095F6&sideLabels=808080&dates=808080">
+  <img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=diegowritescode&hide_border=true&background=00000000&ring=0095F6&fire=0095F6&currStreakLabel=0095F6&sideLabels=808080&dates=808080">
 </p>
 
 <p align="center">
@@ -126,7 +126,7 @@ A long route is not about speed. It is about a pace you can hold and knowing the
 </p>
 
 <p align="center">
-  <sub>Most of that history lives in private company repositories, so the public repo list below is only part of the picture.</sub>
+  <sub><b>5,900</b> of those contributions are from this year. Most of that history lives in private company repositories, so the public repo list below is only part of the picture.</sub>
 </p>
 
 <p align="center">
