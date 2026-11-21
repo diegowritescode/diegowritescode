@@ -91,7 +91,7 @@ I like problems where being almost right is not good enough: money that has to b
 | **[AccessCore](https://github.com/diegowritescode/accesscore)** | Identity and authorization platform: a hybrid ReBAC + RBAC + ABAC engine with Zanzibar-style consistency | `1.3 ms` p50 check · `~96%` line coverage · `27` decision records · [live console](https://console.deviego.xyz) |
 | **[MiniLedger](https://github.com/diegowritescode/miniledger)** | Double-entry ledger API — balanced entries, idempotent transfers, a hash chain per account | `100%` mutation score on the ledger domain · `~99%` coverage · [live dashboard](https://app.ledger.deviego.xyz) |
 | **Toque** | Multi-tenant restaurant SaaS with a WhatsApp ordering agent, in production | `2` products on one core · `80+` decision records · `1` engineer, end to end |
-| **LDM Campañas** | Advertising SaaS: one message in, live campaigns across Meta, Google Ads and TikTok out | `3` networks behind one contract · `126/128` objectives chosen correctly · `v2.83` shipped |
+| **LDM Campañas** | Advertising SaaS: one message in, live campaigns across Meta, Google Ads and TikTok out | `2,900+` commits · `1,490+` pull requests · `3` networks behind one contract · `126/128` objectives chosen correctly · `v2.83` in production |
 | **Zyrcle** · [backend](https://github.com/diegowritescode/zyrcle-backend) · [frontend](https://github.com/diegowritescode/zyrcle-frontend) | Tokenized recycling with blockchain and IoT — three role-specific dashboards over one domain, routes drawn on the real map of Medellín | 🏆 **1st place**, Avalanche Hackadev 2025 — plus Best Use of Precompiles and Best Interoperability |
 | **AICFES** · [backend](https://github.com/diegowritescode/aicfes-backend) · [frontend](https://github.com/diegowritescode/aicfes-frontend) | Generates Colombian ICFES exam items with an LLM — Zod validation and an audit trail of the model's raw output | [Whitepaper](https://github.com/diegowritescode/aicfes-whitepaper) · the model proposes, the schema decides |
 
@@ -119,6 +119,10 @@ A long route is not about speed. It is about a pace you can hold and knowing the
 
 <p align="center">
   <b>3 years</b> shipping &nbsp;·&nbsp; <b>5 systems</b> in production &nbsp;·&nbsp; <b>120+</b> decision records &nbsp;·&nbsp; <b>1</b> hackathon won
+</p>
+
+<p align="center">
+  <sub>Most of my commit history lives in private company repositories, so the graph above shows only a slice of it.</sub>
 </p>
 
 <p align="center">
