@@ -1,7 +1,7 @@
-<h1 align="center">Diego Ramírez</h1>
+<h1 align="center">diegowritescode</h1>
 
 <p align="center">
-  <b>Software engineer · Medellín, Colombia</b><br>
+  <b>Diego Ramírez · Software engineer · Medellín, Colombia</b><br>
   I build systems that handle money, identity and real customers — and I keep them running.
 </p>
 
@@ -118,11 +118,15 @@ A long route is not about speed. It is about a pace you can hold and knowing the
 ---
 
 <p align="center">
+  <img alt="Contribution streak" src="https://github-readme-streak-stats.herokuapp.com/?user=diegowritescode&hide_border=true&background=00000000&ring=0095F6&fire=0095F6&currStreakLabel=0095F6&sideLabels=808080&dates=808080">
+</p>
+
+<p align="center">
   <b>3 years</b> shipping &nbsp;·&nbsp; <b>5 systems</b> in production &nbsp;·&nbsp; <b>120+</b> decision records &nbsp;·&nbsp; <b>1</b> hackathon won
 </p>
 
 <p align="center">
-  <sub>Most of my commit history lives in private company repositories, so the graph above shows only a slice of it.</sub>
+  <sub>Most of that history lives in private company repositories, so the public repo list below is only part of the picture.</sub>
 </p>
 
 <p align="center">
